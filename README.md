@@ -1,30 +1,21 @@
-[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)
+# Personal Portfolio Website
 
-# [Watch video here](https://youtu.be/sUKptmUVIBM)
+This is my personal portfolio website, built using a stack of modern web development technologies. It showcases my skills, projects, and provides a glimpse into my journey as a web developer.
 
-## What you will learn
+## Technologies Used
 
-- Latest Next.js 13 features
-- Next.js App Router
-- Next.js Server Actions
-- Client & Server Components
-- TypeScript (Beginner & Intermediate)
-- Tailwind CSS
-- Context API
-- Advanced Animations with Framer Motion
-- React.Email & Resend
-- Custom React hooks
-- Fresh, modern UI design
-- Light & Dark mode
-- Responsive website
+- **React**: A popular JavaScript library for building user interfaces.
+- **Next.js**: A React framework for server-side rendering and routing.
+- **TypeScript**: A statically typed superset of JavaScript for improved code quality.
+- **TailwindCSS**: A utility-first CSS framework for quickly designing responsive and visually appealing websites.
+- **Motion Framer**: A library for creating smooth animations and interactive UI elements.
 
-## Important
+### Installation
 
-If you want to be a professional developer, you have to know the fundamentals like JavaScript and CSS really well. I highly recommend you go through my [Professional JavaScript](https://bytegrad.com/courses/professional-javascript) and [Professional CSS](https://bytegrad.com/courses/professional-css) courses.
+To run this website locally, follow these steps:
 
-I'm close to releasing a complete React & Next.js course. Get on the email list to receive early-bird pricing: [link](https://email.bytegrad.com/).
+1. Clone the repository:
 
-## Setup
-
-1. Add RESEND_API_KEY environment variable in .env.local
-2. In the send-email.ts action file, change the "to" email to your own email
+```bash
+git clone https://github.com/yourusername/your-portfolio.git
+cd your-portfolio
