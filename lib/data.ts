@@ -21,8 +21,8 @@ export const links = [
     hash: "#skills",
   },
   {
-    name: "Experience",
-    hash: "#experience",
+    name: "Experiences",
+    hash: "#experiences",
   },
   {
     name: "Contact",
@@ -56,6 +56,7 @@ export const projectsData = [
       "Currently working on a URL shortener solution to eliminate the hassle of copying & pasting URLs & providing analytics.",
     tags: ["React", "Next.js", "Redis", "Tailwind", "Go", "Apache JMeter", "Prometheus", "Grafana"],
     imageUrl: urlShortener,
+    projectUrl: "https://github.com/sankalp-12/URL-Shortener",
   },
 ] as const;
 
