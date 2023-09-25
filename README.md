@@ -8,7 +8,7 @@ This is my personal portfolio website, built using a stack of modern web develop
 - **Next.js**: A React framework for server-side rendering and routing.
 - **TypeScript**: A statically typed superset of JavaScript for improved code quality.
 - **TailwindCSS**: A utility-first CSS framework for quickly designing responsive and visually appealing websites.
-- **Motion Framer**: A library for creating smooth animations and interactive UI elements.
+- **Framer Motion**: A library for creating smooth animations and interactive UI elements.
 
 ### Installation
 
