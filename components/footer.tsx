@@ -8,7 +8,8 @@ export default function Footer() {
       </small>
       <p className="text-xs">
         <span className="font-semibold">About this website:</span> built with
-        React & Next.js, TypeScript, Tailwind CSS, Framer Motion, React Email & Resend, Vercel hosting.
+        React & Next.js, TypeScript, Tailwind CSS, Framer Motion, React Email & Resend, Vercel hosting.{" "}
+        <a className="text-xs mt-2 leading-relaxed underline text-gray-700 dark:text-white/70" href="https://github.com/sankalp-12/Personal-Portfolio" target="_blank">View on GitHub.</a>
       </p>
     </footer>
   );
