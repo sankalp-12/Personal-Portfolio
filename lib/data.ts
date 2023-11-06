@@ -36,10 +36,10 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Backend Developer Intern @ Zocket",
+    title: "Golang Developer Intern @ Zocket",
     location: "Bengaluru, IN",
     description:
-      "I worked as a backend developer for 3 months at a GenAI startup. I worked with Go, Docker, Postman, Swagger, AWS, GitLab to design a microservices-based application.",
+      "Worked in a team to design a microservices-based application, hosted on AWS. Reduced latency by 48%. Worked with Go, Docker, Postman, Swagger, AWS, GitLab.",
     icon: React.createElement(GoRocket),
     date: "Mar 2023 - Jun 2023",
   },
@@ -47,7 +47,7 @@ export const experiencesData = [
     title: "CS Undergrad @ IIT Bhilai",
     location: "Durg, IN",
     description:
-      "Currently a senior year CS undergrad at IIT Bhilai. I have taken courses on Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Cryptography, Distributed Systems, Network Science, etc.",
+      "Completed courses on Data Structures & Algorithms, Operating Systems, Computer Networks, Database Management Systems, Cryptography, Distributed Systems, Network Science, etc.",
     icon: React.createElement(CgWorkAlt),
     date: "Nov 2020 - Present",
   },
@@ -55,9 +55,9 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "URL Shortener",
+    title: "Clip-URL",
     description:
-      "Currently working on a URL shortener solution to eliminate the hassle of copying & pasting URLs & providing analytics.",
+      "Working on a URL shortener solution to eliminate the hassle of copying & pasting URLs, while providing analytics.",
     tags: ["React", "Next.js", "Redis", "Tailwind", "Go", "Apache JMeter", "Prometheus", "Grafana"],
     imageUrl: urlShortener,
     projectUrl: "https://github.com/sankalp-12/URL-Shortener",

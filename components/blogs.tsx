@@ -23,8 +23,7 @@ export default function Blogs() {
       <SectionHeading>My Blogs</SectionHeading>
 
       <p className="text-gray-700 -mt-6 dark:text-white/80">
-        I consistently write blogs that about my past experiences, as well as deep technical dives into various projects {" "}
-        I'm currently working on and various technologies I'm exploring. <span className='font-semibold'>Currently down!</span>
+        I write tech blogs that about my ongoing projects and various technologies I'm exploring. <span className='font-semibold'>Currently down!</span>
       </p>
     </motion.section>
   )
